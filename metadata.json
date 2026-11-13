@@ -1,0 +1,6 @@
+{
+  "name": "TrustShield AI",
+  "description": "AI-Powered Fraud & Risk Intelligence Platform with real-time scoring, explainable AI, and banking dashboard analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
